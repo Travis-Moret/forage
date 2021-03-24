@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447652161494",
+    "project_id": "forageapp-2e09a",
+    "storage_bucket": "forageapp-2e09a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447652161494:android:5d7803ff595a1e98c76677",
+        "android_client_info": {
+          "package_name": "edu.oregonstate.morett.forageApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447652161494-qqsmkb4286atvibbef79iuih1isomp0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4HPLIkk1SP2QSDyUlGU2187gD4sDLjSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447652161494-qqsmkb4286atvibbef79iuih1isomp0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

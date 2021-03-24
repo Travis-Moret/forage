@@ -1,0 +1,30 @@
+name: forageApp
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies: 
+  cloud_firestore: 
+  firebase_core : 
+  firebase_storage:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  location: ^3.0.0
+  image_picker: 
+  share: 
+  intl:
+  firebase_analytics:
+  firebase_crashlytics:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
