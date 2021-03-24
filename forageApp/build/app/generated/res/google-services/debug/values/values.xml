@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">447652161494-qqsmkb4286atvibbef79iuih1isomp0o.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">447652161494</string>
+    <string name="google_api_key" translatable="false">AIzaSyB4HPLIkk1SP2QSDyUlGU2187gD4sDLjSA</string>
+    <string name="google_app_id" translatable="false">1:447652161494:android:5d7803ff595a1e98c76677</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB4HPLIkk1SP2QSDyUlGU2187gD4sDLjSA</string>
+    <string name="google_storage_bucket" translatable="false">forageapp-2e09a.appspot.com</string>
+    <string name="project_id" translatable="false">forageapp-2e09a</string>
+</resources>
